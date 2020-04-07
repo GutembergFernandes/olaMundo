@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "olaMundo"
+    }
+  },
+  "defaultProject": "olaMundo",
+  "cli": {
+    "analytics": "1f92cf99-1ef2-4fc3-a798-a65b7b71a5bb"
+  }
 }
